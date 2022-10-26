@@ -7,7 +7,7 @@ const CardDeal = () => (
 <div className={`${layout.sectionInfo} drop-shadow-2xl sm:pt-52 sm:pb-0 sm:pl-32`}>
   <h2 className={`${styles.heading4}`}>A collection built with utility & community at the foundation</h2>
   <p className={`${styles.paragraph} pt-6 sm:pb-96 pt-0.5`}>
-  we’re no strangers to building with utility in mind. That’s why every Moondog is also your key to our private Discord – where you’ll have admittance to our gated channels.
+  we’re no strangers to building with utility in mind. That’s why every Aptos dog is also your key to our private Discord – where you’ll have admittance to our gated channels.
 
 Once inside, you will have exclusive access to events, airdrops, and access to the wls spots of the most anticipated upcoming NFT projects.
   </p>

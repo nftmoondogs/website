@@ -21,18 +21,18 @@ const FeedbackCard = ({ content, name, title, img}) => (
             </summary>
 
             <span>
-            Yes, but the Moondogs channels within Discord are NFT-gated (you must hold a Moondog to enter). Once inside, you'll have access to private Moondogs channels with information about community events, airdrop raffles, wl raffles, and more.
+            Yes, but the Aptos dogs channels within Discord are NFT-gated (you must hold a Aptos dog to enter). Once inside, you'll have access to private Aptos dogs channels with information about community events, airdrop raffles, wl raffles, and more.
             </span>
           </details>
 
         
 <details class="mb-4 pt-5 border-t-[1px] border-t-[#3F3E45]">
             <summary class="font-rav font-semibold text-goldenyellow rounded-md py-2 px-4">
-            How are the 2000 Moondogs distributed?
+            How are the 5000 Aptos dogs distributed?
             </summary>
 
             <span>
-          Free Mint for public
+          We believe that fair distribution of the NFTs plays a very big role in it's success, That's why we introduced Aptos Dogs Scholarships. Tell us what you do in Web3 by filling the scholarship application above, wait for us to review and accept it, If accepted we will publically welcome you to our community using our twitter @wooflist and your wallet address will be whitelisted and you will be able to mint using the mint button above. 
             </span>
           </details>
 
@@ -43,7 +43,7 @@ const FeedbackCard = ({ content, name, title, img}) => (
             </summary>
 
             <span>
-              15th September 
+              Mint is live but only the peoples on the Wooflist can mint a moondogs you can fill our scholarship fourm above and tell us what role you play in web3 space, Our team will review your scholarship application, If accepted we will add your wallet address in wooflist allowing you to mint using the mint button above.
             </span>
           </details>
 

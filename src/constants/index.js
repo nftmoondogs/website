@@ -157,7 +157,7 @@ export const socialMedia = [
   {
     id: "social-media-4",
     icon: discord,
-    link: "https://discord.com/channels/1017889965197238272/1017963272235925614",
+    link: "https://discord.gg/8KWDntE9KH",
   },
 
 ];

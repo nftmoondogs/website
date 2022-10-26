@@ -20,7 +20,7 @@ const Hero = () => {
     </div>
     <div class="flex flex-col items-center pb-10">
         <img class="mb-3 w-24 h-24 rounded-full shadow-lg" src={profile} alt="Bonnie image"/>
-        <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">Find a Moondog</h5>
+        <h5 class="mb-1 text-xl font-medium text-gray-900 dark:text-white">Find a Aptos Dogs</h5>
        
         
         <div class="flex mt-4 space-x-3 md:mt-6">
