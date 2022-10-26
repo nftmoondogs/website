@@ -8,7 +8,7 @@ const Navbar = () => {
     <nav className="w-full flex py-6 justify-between items-center navbar">
 
 
-<h1 className="pt-2 font-sydney font-semibold ss:text-[75px] text-[35px] text-creamgreen ss:leading-[80.8px] leading-[30px] w-[124px] h-[70px] drop-shadow-2xl ">
+<h1 className="pt-2 font-sydney font-semibold ss:text-[75px] text-[35px] text-creamgreen ss:leading-[80.8px] leading-[30px] drop-shadow-2xl">
           Aptos Dogs
         </h1>
 
