@@ -31,7 +31,7 @@ import door from "./door.png";
 import woof from "./woof.png";
 import paw from "./paw.png";
 import profile from "./profile.png";
-import arrow from "./arrow.png"
+import arrow from "./Arrow.png"
 import letter from "./letter copy.png"
 import mintButton from "./mint Button.png"
 import os from "./os.png"
