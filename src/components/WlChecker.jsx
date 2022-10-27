@@ -71,7 +71,7 @@ const Hero = () => {
     </div>
 
     <p className={`${styles.paragraph} pt-6 ss:pt-10 pb-10`}>
-If you own a Moondogs (Our genesis collection on Etherium Blockchain) then you will be provided a gurenteed Woof list spot for Aptos Dogs. When total minted supply of Aptos Dogs reaches 3000 out of 5000 total supply then we will stop the scholarship mint and let all the Moondogs holders mint their Aptos Dogs. You can verify your ownership and get your Aptos Wallet whitelisted using the fourm above.
+If you own a Moondogs (Our genesis collection on Etherium Blockchain) then you will be provided a gurenteed Woof list spot for Aptos Dogs, You can verify your ownership and get your Aptos Wallet whitelisted using the fourm above.
   </p>
   </div>
 </div>
