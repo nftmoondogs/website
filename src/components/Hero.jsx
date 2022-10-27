@@ -30,7 +30,7 @@ const Hero = () => {
       
         <div class="pt-10"></div>
         
-<a href="https://www.qries.com/">
+<a href="https://forms.gle/F1RuJUNQ1uRk1hjz5">
          <img class=" relative max-w-sm transition-all  cursor-pointer filter grayscale hover:grayscale-0 mb-3 m-auto w-[60px] h-[80px] shadow-lg ml-0 mr-0 mt-16 mb-10" src={letter} alt="Qries"/>
       </a>
 <div class="pt-2"></div>
@@ -43,9 +43,9 @@ const Hero = () => {
 
         <div class="pt-10"></div>
       
-<a href="https://www.qries.com/">
+
          <img class="relative max-w-sm transition-all  cursor-pointer filter grayscale hover:grayscale-0 mb-3 mt-auto mb-auto ml-auto mr-auto w-[80px] h-[80px] shadow-lg ml-0 mr-0 mt-16 mb-10" src={wait} alt="Qries"/>
-      </a>
+    
       <div class="pt-2"></div>
 <p class={`${styles.paragraph3} "text-gray-500 text-xs md:text-sm px-6 text-center pb-10" `} >Wait</p>
       
@@ -60,7 +60,7 @@ const Hero = () => {
          <img class="relative max-w-sm transition-all rounded-full shadow-lg cursor-pointer filter grayscale hover:grayscale-0 mb-3 mt-auto mb-auto ml-auto mr-auto w-[80px] h-[80px] shadow-lg ml-0 mr-0 mt-16 mb-16" src={tw} alt="Qries"/>
       </a>
       <div class="pt-2"></div>
-      <p class={`${styles.paragraph3} "text-gray-500 text-xs md:text-sm px-6 text-center pb-10" `} >Tweet</p>
+      <p class={`${styles.paragraph3} "text-gray-500 text-xs md:text-sm px-6 text-center pb-10" `} >Check Status</p>
       
     </div>
 
@@ -72,7 +72,7 @@ const Hero = () => {
   
     <div class="pt-10"></div>
 
-<a href="https://www.qries.com/">
+<a href="https://mint.woofsite.com">
          <img class="relative max-w-sm transition-all shadow-lg cursor-pointer filter grayscale hover:grayscale-0 mb-3 mt-auto mb-auto ml-auto mr-auto w-[80px] h-[80px] shadow-lg ml-0 mr-0 mt-16 mb-16" src={mint} alt="Qries"/>
       </a>
       <div class="pt-2"></div>
@@ -81,7 +81,7 @@ const Hero = () => {
     </div>
 
     <p className={`${styles.paragraph} pt-6 ss:pt-10 pb-10`}>
-    We believe that fair distribution of the NFTs plays a very big role in it's success, That's why we introduced Aptos Dogs Scholarships. Tell us what you do in Web3 by filling the scholarship application above, wait for us to review and accept it, If accepted we will publically welcome you to our community using our twitter @wooflist and your wallet address will be whitelisted and you will be able to mint using the mint button above.
+    We believe that fair distribution of the NFTs plays a very big role in it's success, That's why we introduced Aptos Dogs Scholarships. Tell us what you do in Web3 by filling the scholarship application above, wait for us to review and accept it, If accepted we will publicly welcome you to our community using our twitter @wooflist and your wallet address will be whitelisted and you will be able to mint using the mint button above.
   </p>
   </div>
 </div>

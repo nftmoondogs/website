@@ -28,7 +28,7 @@ const Hero = () => {
       
         <div class="pt-10"></div>
         
-<a href="https://www.qries.com/">
+<a href="https://opensea.io/collection/moondogsaftermerge">
          <img class=" relative max-w-sm transition-all  cursor-pointer filter grayscale hover:grayscale-0 mb-3 m-auto w-[80px] h-[80px] shadow-lg ml-0 mr-0 mt-16 mb-10" src={os} alt="Qries"/>
       </a>
 <div class="pt-2"></div>
@@ -45,7 +45,7 @@ const Hero = () => {
   
         <div class="pt-10"></div>
 
-<a href="https://www.qries.com/">
+<a href="https://forms.gle/7zRAYDQbiTv3wYkeA">
          <img class="relative max-w-sm transition-all shadow-lg cursor-pointer filter grayscale hover:grayscale-0 mb-3 mt-auto mb-auto ml-auto mr-auto w-[60px] h-[80px] shadow-lg ml-0 mr-0 mt-16 mb-16" src={letter} alt="Qries"/>
       </a>
       <div class="pt-2"></div>
@@ -62,7 +62,7 @@ const Hero = () => {
        
     <div class="pt-10"></div>
 
-<a href="https://www.qries.com/">
+<a href="https://mint.woofsite.com">
          <img class="relative max-w-sm transition-all shadow-lg cursor-pointer filter grayscale hover:grayscale-0 mb-3 mt-auto mb-auto ml-auto mr-auto w-[80px] h-[80px] shadow-lg ml-0 mr-0 mt-16 mb-16" src={mint} alt="Qries"/>
       </a>
       <div class="pt-2"></div>
@@ -71,7 +71,7 @@ const Hero = () => {
     </div>
 
     <p className={`${styles.paragraph} pt-6 ss:pt-10 pb-10`}>
-    We believe that fair distribution of the NFTs plays a very big role in it's success, That's why we introduced Aptos Dogs Scholarships. Tell us what you do in Web3 by filling the scholarship application above, wait for us to review and accept it, If accepted we will publically welcome you to our community using our twitter @wooflist and your wallet address will be whitelisted and you will be able to mint using the mint button above.
+If you own a Moondogs (Our genesis collection on Etherium Blockchain) then you will be provided a gurenteed Woof list spot for Aptos Dogs. When total minted supply of Aptos Dogs reaches 3000 out of 5000 total supply then we will stop the scholarship mint and let all the Moondogs holders mint their Aptos Dogs. You can verify your ownership and get your Aptos Wallet whitelisted using the fourm above.
   </p>
   </div>
 </div>
