@@ -45,10 +45,10 @@ const Hero = () => {
         <div class="pt-10"></div>
 
 <a href="https://www.qries.com/">
-         <img class="relative max-w-sm transition-all rounded-full shadow-lg cursor-pointer filter grayscale hover:grayscale-0 mb-3 mt-auto mb-auto ml-auto mr-auto w-[80px] h-[80px] shadow-lg ml-0 mr-0 mt-16 mb-16" src={tw} alt="Qries"/>
+         <img class="relative max-w-sm transition-all shadow-lg cursor-pointer filter grayscale hover:grayscale-0 mb-3 mt-auto mb-auto ml-auto mr-auto w-[60px] h-[80px] shadow-lg ml-0 mr-0 mt-16 mb-16" src={letter} alt="Qries"/>
       </a>
       <div class="pt-2"></div>
-      <p class={`${styles.paragraph3} "text-gray-500 text-xs md:text-sm px-6 text-center pb-10" `} >Tweet</p>
+      <p class={`${styles.paragraph3} "text-gray-500 text-xs md:text-sm px-6 text-center pb-10" `} >Verify</p>
       
     </div>
 
@@ -56,11 +56,11 @@ const Hero = () => {
     <div className="pl-0 ss:pl-6"></div>
     <a href="https://mint.woofsite.com" target="_blank" rel="noreferrer" class="hidden md:block relative max-w-sm transition-all  cursor-pointer filter grayscale hover:grayscale-0 w-[240px] items-center py-2 px-4 font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 h-11 ml-6 w-25 h-11 mt-16">Mint</a>
 
-    <div class="w-full md:w-1/6 px-28 mb-4 ml-auto mr-auto">
+    <div class="w-full md:w-1/6 px-6 mb-10">
   
         <div class="pt-16"></div>
 
-        <a href="https://mint.woofsite.com" target="_blank" rel="noreferrer" class="ss:hidden ss:block justify-center mr-auto relative max-w-sm transition-all  cursor-pointer filter grayscale hover:grayscale-0 w-[240px] items-center py-2 px-4 font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 h-11 w-25 h-11 mt-16">Mint</a>
+        <a href="https://mint.woofsite.com" target="_blank" rel="noreferrer" class="ss:hidden ss:block justify-center mr-auto relative max-w-sm transition-all  cursor-pointer filter grayscale hover:grayscale-0 w-[240px] items-center py-2 px-4 font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 h-11 flex mt-0">Mint</a>
       <div class="pt-2"></div>
     
       
