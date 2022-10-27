@@ -71,7 +71,7 @@ const Hero = () => {
     </div>
 
     <p className={`${styles.paragraph} pt-6 ss:pt-10 pb-10`}>
-If you own a Moondogs (Our genesis collection on Etherium Blockchain) then you will be provided a gurenteed Woof list spot for Aptos Dogs, You can verify your ownership and get your Aptos Wallet whitelisted using the fourm above.
+If you own a Moondogs (Our genesis collection on Etherium Blockchain) then you will be provided a guaranteed Woof list spot for Aptos Dogs, You can verify your ownership and get your Aptos Wallet whitelisted using the fourm above.
   </p>
   </div>
 </div>
