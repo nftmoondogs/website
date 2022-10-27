@@ -8,6 +8,7 @@ import { mintButton } from "../assets";
 import { os } from "../assets";
 import { tw } from "../assets";
 import { wait } from "../assets";
+import { mint } from "../assets";
 
 
 
@@ -62,7 +63,7 @@ const Hero = () => {
     <div class="pt-10"></div>
 
 <a href="https://www.qries.com/">
-         <img class="relative max-w-sm transition-all shadow-lg cursor-pointer filter grayscale hover:grayscale-0 mb-3 mt-auto mb-auto ml-auto mr-auto w-[60px] h-[80px] shadow-lg ml-0 mr-0 mt-16 mb-16" src={letter} alt="Qries"/>
+         <img class="relative max-w-sm transition-all shadow-lg cursor-pointer filter grayscale hover:grayscale-0 mb-3 mt-auto mb-auto ml-auto mr-auto w-[80px] h-[80px] shadow-lg ml-0 mr-0 mt-16 mb-16" src={mint} alt="Qries"/>
       </a>
       <div class="pt-2"></div>
       <p class={`${styles.paragraph3} "text-gray-500 text-xs md:text-sm px-6 text-center pb-10" `} >Mint</p>

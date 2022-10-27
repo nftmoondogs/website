@@ -37,6 +37,7 @@ import mintButton from "./mint Button.png"
 import os from "./os.png"
 import tw from "./tw.png"
 import wait from './wait.png'
+import mint from './mint.png'
 
 
 
@@ -80,4 +81,5 @@ export {
   os,
   tw,
   wait,
+  mint,
 };
