@@ -8,6 +8,7 @@ const styles = {
     heading2: "font-sydney font-semibold xs:text-[50px] text-[30px] text-goldenyellow xs:leading-[76.8px] leading-[40px] sm:leading-[50px] w-full",
     paragraph: "font-mon font-normal text-white text-justify text-[18px] leading-[30.8px]",
     paragraph2: "font-mon font-normal text-creamgreen text-justify text-[18px] leading-[30.8px]",
+    paragraph3: "font-mon font-pt font-semibold text-goldenyellow text-justify text-[30px] leading-[30.8px]",
   
     flexCenter: "flex justify-center items-center",
     flexStart: "flex justify-center items-start",

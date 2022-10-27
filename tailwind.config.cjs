@@ -17,8 +17,9 @@ module.exports = {
         purple: "#8284c9",
         grey: "#b4b4b4",
         bluel: "#3366CC",
-        ddd: "#201434",
+        ddd: "#100825",
         yyy: "#180c24",
+        darkp: "#281434",
       },
       fontFamily: {
         poppins: ["Poppins", "sans-serif"],

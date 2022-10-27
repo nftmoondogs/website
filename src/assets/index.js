@@ -31,6 +31,12 @@ import door from "./door.png";
 import woof from "./woof.png";
 import paw from "./paw.png";
 import profile from "./profile.png";
+import arrow from "./arrow.png"
+import letter from "./letter copy.png"
+import mintButton from "./mint Button.png"
+import os from "./os.png"
+import tw from "./tw.png"
+import wait from './wait.png'
 
 
 
@@ -68,4 +74,10 @@ export {
   paw,
   discord,
   profile,
+  arrow,
+  letter,
+  mintButton,
+  os,
+  tw,
+  wait,
 };
