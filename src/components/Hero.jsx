@@ -81,7 +81,7 @@ const Hero = () => {
     </div>
 
     <p className={`${styles.paragraph} pt-6 ss:pt-10 pb-10`}>
-    We believe that fair distribution of the NFTs plays a very big role in it's success, That's why we introduced Aptos Dogs Scholarships. Tell us what you do in Web3 by filling the scholarship application above, wait for us to review and accept it, If accepted we will publicly welcome you to our community using our twitter @wooflist and your wallet address will be whitelisted and you will be able to mint using the mint button above.
+    We believe that fair distribution of the NFTs plays a very big role in it's success, That's why we introduced Aptos Dogs Scholarships. Tell us what you do in Web3 by filling the scholarship application above, wait for us to review and accept it, If accepted we will publicly welcome you to our community using our twitter @aptoswooflist and your wallet address will be whitelisted and you will be able to mint using the mint button above.
   </p>
   </div>
 </div>
