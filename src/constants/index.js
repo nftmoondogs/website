@@ -151,7 +151,7 @@ export const socialMedia = [
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://twitter.com/NFTmoondogs",
+    link: "https://twitter.com/nftaptosdogs",
   },
 
   {
