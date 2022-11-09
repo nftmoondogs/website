@@ -55,14 +55,14 @@ const Hero = () => {
 
     <img class="mb-3 w-[20%] ss:w-[6%] h-[20%] ss:h-[6%] shadow-lg ml-auto mr-auto mr-0 rotate-90 ss:rotate-0 mt-16 mb-10" src={arrow} alt="Bonnie image"/>
     <div className="pl-0 ss:pl-6"></div>
-    <a href="https://mint.woofsite.com" target="_blank" rel="noreferrer" class="hidden md:block relative max-w-sm transition-all  cursor-pointer filter grayscale hover:grayscale-0 w-[240px] items-center py-2 px-4 font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 h-11 ml-6 w-25 h-11 mt-16">Mint</a>
+    <a href="https://mint.aptosdogs.xyz" target="_blank" rel="noreferrer" class="hidden md:block relative max-w-sm transition-all  cursor-pointer filter grayscale hover:grayscale-0 w-[240px] items-center py-2 px-4 font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 h-11 ml-6 w-25 h-11 mt-16">Mint</a>
 
     <div class="w-full md:w-1/6 px-6 mb-10 ss:hidden">
   
        
     <div class="pt-10"></div>
 
-<a href="https://mint.woofsite.com">
+<a href="https://mint.aptosdogs.xyz">
          <img class="relative max-w-sm transition-all shadow-lg cursor-pointer filter grayscale hover:grayscale-0 mb-3 mt-auto mb-auto ml-auto mr-auto w-[80px] h-[80px] shadow-lg ml-0 mr-0 mt-16 mb-16" src={mint} alt="Qries"/>
       </a>
       <div class="pt-2"></div>
