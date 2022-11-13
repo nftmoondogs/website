@@ -56,7 +56,7 @@ const Hero = () => {
   
         <div class="pt-10"></div>
 
-<a href="https://twitter.com/aptoswooflist">
+<a href="https://twitter.com/woof_list">
          <img class="relative max-w-sm transition-all rounded-full shadow-lg cursor-pointer filter grayscale hover:grayscale-0 mb-3 mt-auto mb-auto ml-auto mr-auto w-[80px] h-[80px] shadow-lg ml-0 mr-0 mt-16 mb-16" src={tw} alt="Qries"/>
       </a>
       <div class="pt-2"></div>
